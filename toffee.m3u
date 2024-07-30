@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="Logo link" group-title="Sports channel", T sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X5bKrQQ/20240731-030614.png" group-title="Sports channel", T sports
 https://bdix.proximitybd.xyz/join-@live_cricket_24.php?id=live-01
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
